@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitheeshshetty&" alt="nitheeshshetty" /></p>
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitheeshshetty&theme=dracula)](https://github.com/nitheeshshetty/github-readme-activity-graph)
+[![Nitheeshshetty's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitheeshshetty&theme=dracula)](https://github.com/nitheeshshetty/github-readme-activity-graph)
