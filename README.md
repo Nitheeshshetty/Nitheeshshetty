@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitheesh Shetty</h1>
 <h3 align="center">Competitive Programmer and Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitheeshshetty&label=Profile%20views&color=0e75b6&style=flat" alt="nitheeshshetty" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitheeshshetty&label=Profile%20views&color=0e75b6&style=flat" alt="nitheeshshetty" /> </p> -->
 
 - 🔭 I’m currently working on **Virtual mouse using hand-gestures and voice recognition**
 
@@ -27,8 +27,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=NitheeshShetty&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitheeshShetty&theme=dark&hide_border=false)<br/>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitheeshshetty&show_icons=true&locale=en" alt="nitheeshshetty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitheeshshetty&" alt="nitheeshshetty" /></p> -->
 
 [![Nitheeshshetty's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitheeshshetty&theme=dracula)](https://github.com/nitheeshshetty/github-readme-activity-graph)
