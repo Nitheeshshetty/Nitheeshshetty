@@ -28,4 +28,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitheeshShetty&theme=dark&hide_border=false)<br/>
 
 
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitheeshshetty&theme=dracula)](https://github.com/nitheeshshetty/github-readme-activity-graph)
+[![NitheeshShetty's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitheeshshetty&theme=dracula)](https://github.com/nitheeshshetty/github-readme-activity-graph)
