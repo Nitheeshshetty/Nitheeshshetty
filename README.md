@@ -3,11 +3,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitheeshshetty&label=Profile%20views&color=0e75b6&style=flat" alt="nitheeshshetty" /> </p> -->
 
-- 🔭 I’m currently working on **Virtual mouse using hand-gestures and voice recognition**
+- 🔭 I’m currently working on **Automation Frameworks**
 
-- 🌱 I’m currently learning **Node js ,Express js**
+- 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **C,C++,Java,MySql**
+- 💬 Ask me about **C,C++,Java,MySql,Python**
 
 - 📫 How to reach me **nitheeshshetty2002@gmail.com**
 
