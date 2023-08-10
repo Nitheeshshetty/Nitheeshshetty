@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Engineering Concepts and Tools**
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Apache spark**
 
 - 💬 Ask me about **C,C++,Java,MySql,Python**
 
