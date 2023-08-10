@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitheeshshetty&label=Profile%20views&color=0e75b6&style=flat" alt="nitheeshshetty" /> </p> -->
 
-- 🔭 I’m currently working on **Automation Frameworks**
+- 🔭 I’m currently working on **Data Engineering Concepts and Tools**
 
 - 🌱 I’m currently learning **Selenium**
 
